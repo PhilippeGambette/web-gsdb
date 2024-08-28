@@ -5,6 +5,7 @@ Un outil de déploiement de site web à partir d'une base de données stockée s
 
 * Site créé par [Olivier Brossard](https://www.iufrance.fr/les-membres-de-liuf/membre/1507-olivier-brossard.html) : [Bibliographie de poésie des États-Unis en traduction française, 1786-2023](https://philippegambette.github.io/web-gsdb/?id=poesie-americaine-en-traduction)
 * Site de [recensement des promenades du matrimoine en France](https://philippegambette.github.io/web-gsdb/?id=empreintes-de-femmes) (données collectées par Danie Lancéa, Titouan Kerhervé-Remoussin et Philippe Gambette)
+* Site créé par [Beatrice Mundo](https://digis.hypotheses.org/1526) : [Lettres de Catherine de Médicis 1564-1566](https://beatricemundo.github.io/lettresmedicis6466/)
 
 ## Installation
 
