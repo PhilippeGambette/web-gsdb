@@ -20,7 +20,7 @@ Exemple de code JSON, pour un site web dédié aux promenades du matrimoine en F
 ## Pour aller plus loin
 
 * pour des sites web ou des bases de données plus complexes, vous pouvez utiliser [Awesome Table](https://awesome-table.com/)
-* d'autres moteurs sites créés à partir de fichiers Google Sheets par des stagiaires à l'université Gustave Eiffel :
+* d'autres moteurs de sites créés à partir de fichiers Google Sheets par des stagiaires à l'université Gustave Eiffel :
   * [De ville en ville](https://github.com/citedesdames/de-ville-en-ville)
   * [Les Promenades du Matrimoine](https://github.com/Ulysseee/les-promenades-du-matrimoine)
   * [Empreintes de femmes](https://github.com/citedesdames/empreintesdefemmes)
